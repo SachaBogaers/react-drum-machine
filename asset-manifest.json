@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-drum-machine/static/css/main.22a9c741.chunk.css",
+    "main.js": "/react-drum-machine/static/js/main.7f382b0f.chunk.js",
+    "main.js.map": "/react-drum-machine/static/js/main.7f382b0f.chunk.js.map",
+    "runtime-main.js": "/react-drum-machine/static/js/runtime-main.2ba5ebcb.js",
+    "runtime-main.js.map": "/react-drum-machine/static/js/runtime-main.2ba5ebcb.js.map",
+    "static/js/2.5b7814b1.chunk.js": "/react-drum-machine/static/js/2.5b7814b1.chunk.js",
+    "static/js/2.5b7814b1.chunk.js.map": "/react-drum-machine/static/js/2.5b7814b1.chunk.js.map",
+    "static/js/3.ffd7932b.chunk.js": "/react-drum-machine/static/js/3.ffd7932b.chunk.js",
+    "static/js/3.ffd7932b.chunk.js.map": "/react-drum-machine/static/js/3.ffd7932b.chunk.js.map",
+    "index.html": "/react-drum-machine/index.html",
+    "static/css/main.22a9c741.chunk.css.map": "/react-drum-machine/static/css/main.22a9c741.chunk.css.map",
+    "static/js/2.5b7814b1.chunk.js.LICENSE.txt": "/react-drum-machine/static/js/2.5b7814b1.chunk.js.LICENSE.txt",
+    "static/media/cute_meow_1.d66ba613.mp3": "/react-drum-machine/static/media/cute_meow_1.d66ba613.mp3",
+    "static/media/cute_meow_2.847f94d0.wav": "/react-drum-machine/static/media/cute_meow_2.847f94d0.wav",
+    "static/media/hiss_1.94adba46.wav": "/react-drum-machine/static/media/hiss_1.94adba46.wav",
+    "static/media/hiss_2.061f1df3.wav": "/react-drum-machine/static/media/hiss_2.061f1df3.wav",
+    "static/media/loud_meow_1.395d166b.mp3": "/react-drum-machine/static/media/loud_meow_1.395d166b.mp3",
+    "static/media/loud_meow_2.37d75f58.wav": "/react-drum-machine/static/media/loud_meow_2.37d75f58.wav",
+    "static/media/meow_1.dfa46dc9.mp3": "/react-drum-machine/static/media/meow_1.dfa46dc9.mp3",
+    "static/media/meow_2.39bd6bd8.wav": "/react-drum-machine/static/media/meow_2.39bd6bd8.wav",
+    "static/media/purr_1.7f9ae891.wav": "/react-drum-machine/static/media/purr_1.7f9ae891.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba5ebcb.js",
+    "static/js/2.5b7814b1.chunk.js",
+    "static/css/main.22a9c741.chunk.css",
+    "static/js/main.7f382b0f.chunk.js"
+  ]
+}
